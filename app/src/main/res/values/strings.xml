@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">UniCon</string>
+    <string name="hint">Enter value</string>
+    <string name="titleAngle">ANGLE</string>
+    <string name="titleTemperature">TEMPERATURE</string>
+    <string name="titleLength">LENGTH</string>
+    <string name="titleMass">MASS</string>
+    <string name="titleTime">TIME</string>
+    <string name="titleCurrency">CURRENCY</string>
+    <string name="titlePressure">PRESSURE</string>
+    <string name="titleArea">AREA</string>
+    <string name="titleVolume">VOLUME</string>
+    <string name="titleBits">BITS</string>
+    <string name="convert">CONVERT</string>
+    <string name="mainDesc">CONVERT EVERYTHING</string>
+    <string name="mainTitle">UNICON</string>
+
+    <string-array name="angle">
+        <item>Degree</item>
+        <item>Radian</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>Milimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Miles</item>
+        <item>Yard</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>Square Meter</item>
+        <item>Square Foot</item>
+        <item>Square Centimeter</item>
+        <item>Square Kilometer</item>
+        <item>Square Inches</item>
+        <item>Square Milimeter</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>Litre</item>
+        <item>Millilitre</item>
+        <item>Fluid Ounce</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Decade</item>
+    </string-array>
+
+    <string-array name="mass">
+        <item>Milligram</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Stone</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>US Dollar</item>
+        <item>Euro</item>
+        <item>Malaysian Ringgit</item>
+        <item>Japanese Yen</item>
+        <item>Korean Won</item>
+        <item>Great Britain Pound</item>
+    </string-array>
+
+    <string-array name="pressure">
+        <item>Pascal</item>
+        <item>Atmosphere</item>
+    </string-array>
+
+    <string-array name="bits">
+        <item>Bits</item>
+        <item>Byte (B)</item>
+        <item>Kilobyte (KB)</item>
+        <item>Megabyte (MB)</item>
+        <item>Gigabyte (GB)</item>
+        <item>Terabyte (TB)</item>
+    </string-array>
+
+</resources>
